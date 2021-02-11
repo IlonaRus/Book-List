@@ -13,7 +13,7 @@ https://modest-ptolemy-597bdf.netlify.app/
 
 ### Website
 **Task List:**\
-De pagina bestaat uit een conatainer. Het bovenste gedeelte heeft een form waarin nieuwe boeken ingevuld kunnen worden. \
+De pagina bestaat uit een container. Het bovenste gedeelte heeft een form waarin nieuwe boeken ingevuld kunnen worden. \
 In het onderste gedeelte wordt een table gevuld met de opgegeven boeken.\
 De boeken kunnen individueel verwijderd worden.\
 Er komt een error alert als er niets ingevuld is en toch op de submit knop gedrukt is. Een success alert is te zien als er een boek ingevuld is en verwijderd is. 
