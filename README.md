@@ -1,6 +1,6 @@
-# Task List
+# Book List
 
-## Welkom op mijn Task-List repository!
+## Welkom op mijn Book-List repository!
 
 \
 Deze pagina heb ik gemaakt om wat vanilla Javascript en object Oriented Programming met ES6 te laten zien. \
@@ -12,7 +12,7 @@ https://modest-ptolemy-597bdf.netlify.app/
 
 
 ### Website
-**Task List:**\
+**Book List:**\
 De pagina bestaat uit een container. Het bovenste gedeelte heeft een form waarin nieuwe boeken ingevuld kunnen worden. \
 In het onderste gedeelte wordt een table gevuld met de opgegeven boeken.\
 De boeken kunnen individueel verwijderd worden.\
