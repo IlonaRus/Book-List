@@ -4,7 +4,7 @@
 
 \
 Deze pagina heb ik gemaakt om wat vanilla Javascript en object Oriented Programming met ES6 te laten zien. \
-Voor de vormgeveing heb ik Skeleton gebruikt. http://getskeleton.com/ \
+Voor de vormgeving heb ik Skeleton gebruikt. http://getskeleton.com/ \
 In dit project ben ik bezig geweest met o.a. OOP, constructors en eventListeners.
 
 
